@@ -12,7 +12,7 @@
 	<atom:link href="https://dark055.github.io/qqwwqq/category/%D0%B1%D0%B5%D0%B7-%D1%80%D1%83%D0%B1%D1%80%D0%B8%D0%BA%D0%B8/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dark055.github.io/qqwwqq</link>
 	<description>Ещё один сайт на WordPress</description>
-	<lastBuildDate>Sat, 24 Aug 2019 22:20:09 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 Aug 2019 22:25:11 +0000</lastBuildDate>
 	<language>ru-RU</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
+		<title>xcv</title>
+		<link>https://dark055.github.io/qqwwqq/2019/08/25/xcv/</link>
+				<comments>https://dark055.github.io/qqwwqq/2019/08/25/xcv/#respond</comments>
+				<pubDate>Sat, 24 Aug 2019 22:25:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Без рубрики]]></category>
+
+		<guid isPermaLink="false">https://dark055.github.io/qqwwqq/?p=7</guid>
+				<description><![CDATA[xcv]]></description>
+								<content:encoded><![CDATA[
+<p>xcv</p>
+]]></content:encoded>
+							<wfw:commentRss>https://dark055.github.io/qqwwqq/2019/08/25/xcv/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>Test</title>
 		<link>https://dark055.github.io/qqwwqq/2019/08/25/test/</link>
 				<comments>https://dark055.github.io/qqwwqq/2019/08/25/test/#comments</comments>
